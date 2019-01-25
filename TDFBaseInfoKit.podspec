@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/ny8080/ADBaseInfoKit.git", tag: s.version }
  
-  s.source_files = 'TDFDataDrivenKit/Classes/**/*'
-#  s.public_header_files = 'TDFDataDrivenKit/Classes/**/*.{h}'
+  s.source_files = 'TDFBaseInfoKit/Classes/**/*'
+  s.public_header_files = 'TDFBaseInfoKit/Classes/**/*.{h}'
 
 end
