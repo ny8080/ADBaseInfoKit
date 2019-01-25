@@ -1,0 +1,16 @@
+PODS:
+  - TDFBaseInfoKit (0.2.4)
+
+DEPENDENCIES:
+  - TDFBaseInfoKit (from `../TDFBaseInfoKit`)
+
+EXTERNAL SOURCES:
+  TDFBaseInfoKit:
+    :path: "../TDFBaseInfoKit"
+
+SPEC CHECKSUMS:
+  TDFBaseInfoKit: 099ce717a89d9033a3cab9e4da90749956aeb447
+
+PODFILE CHECKSUM: 0612d2a91c70c3d259b9e4f105b89c799b2ab950
+
+COCOAPODS: 1.5.3
